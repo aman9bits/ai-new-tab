@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "AI New Tab Prompt",
+  "description": "Prompts you to think about how you can get AI to do your task on every new tab.",
+  "version": "1.0",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "icons": {
+    "128": "icon128.png"
+  }
+}
